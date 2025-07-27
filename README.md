@@ -4,6 +4,8 @@
 
 FitStreak is an interactive fitness tracking web app built with Vue 3 and Vite, designed to guide users through a structured Push–Pull–Legs (PPL) workout routine over a 30-day challenge.
 
+Now on netlify: https://fitstreak007.netlify.app/
+
 ## 🚀 Features
 
 ### 🗓️ 30-Day Push–Pull–Legs Program
