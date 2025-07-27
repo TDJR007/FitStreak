@@ -1,4 +1,4 @@
-# FitStreak 💪
+# FitStreak
 
 *Stay consistent, track your progress, and unlock workouts one step at a time — all from your browser.*
 
@@ -30,7 +30,7 @@ Built mobile-first for quick access at the gym or on the go.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/FitStreak.git
+git clone https://github.com/TDJR007/FitStreak.git
 cd FitStreak
 
 # 2. Install dependencies
